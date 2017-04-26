@@ -1,6 +1,6 @@
 # npmdoc-captains-log
 
-#### api documentation for  [captains-log (v1.0.2)](https://github.com/mikermcneil/captains-log#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-captains-log.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-captains-log) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-captains-log.svg)](https://travis-ci.org/npmdoc/node-npmdoc-captains-log)
+#### basic api documentation for  [captains-log (v1.0.2)](https://github.com/mikermcneil/captains-log#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-captains-log.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-captains-log) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-captains-log.svg)](https://travis-ci.org/npmdoc/node-npmdoc-captains-log)
 
 #### Lightweight logger with a simple pass-through configuration for use with fancier logging libraries
 
@@ -70,7 +70,8 @@
     "scripts": {
         "test": "node ./node_modules/mocha/bin/mocha -b"
     },
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "bin": {}
 }
 ```
 
